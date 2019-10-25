@@ -1,6 +1,6 @@
 # conversor-json-xlsx
 
-Desenvolvimento de um programa que cria um arquivo xlsx e insere json na tabela.
+Script que cria um arquivo .xlsx e insere dados json na tabela.
 >Manipulação em um formato de Objeto específico.
 
 ### ex:
