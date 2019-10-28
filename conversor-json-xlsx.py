@@ -11,7 +11,7 @@ def insert_title_columns(worksheet):
     insert_in_table(worksheet, 0, 4, 'Presente')
 
 
-# Obtendo acesso ao arqivo JSON
+# Obtendo acesso ao arquivo JSON
 def read_file_json(file):
     with open(file, encoding="utf8") as json_file:
         return json.load(json_file)
